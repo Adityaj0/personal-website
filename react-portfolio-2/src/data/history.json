@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineering Fellow",
+    "organisation": "HeadStarter",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "experiences": ["Created 5 Projects", "Got 1000+ users to try my product"],
+    "imageSrc": "history/theheadstarter_logo.jpg"
+  },
+  {
+    "role": "President",
+    "organisation": "NextWave Coding",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Partnered with orgnizations to host workshops", "Changed lives of 100+ people"],
+    "imageSrc": "history/nextwave.jpg"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Internite",
+    "startDate": "May, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Implemented compression algorithms.",
+      "Helped develop a user interface."
+    ],
+    "imageSrc": "history/internite.jpg"
+  }
+]
